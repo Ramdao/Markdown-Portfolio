@@ -5,6 +5,8 @@
 [Project](/project.md)
 
 ## About me
+<img src="./img/pictureofme.jpeg" width=1000> 
+
 ### Education   
 > Romanian American university (Computer Science for Economics)  
 > Humber Polytechnic (Web application design)   
