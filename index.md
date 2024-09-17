@@ -5,7 +5,7 @@
 [Project](/project.md)
 
 ## About me
-<img src="./img/pictureofme.jpeg" width=1000> 
+<img src="./img/pictureofme.jpeg" width=100> 
 
 ### Education   
 > Romanian American university (Computer Science for Economics)  
