@@ -11,7 +11,7 @@ website is connected to the database through an API created using node.js.
 
 ## Screenshot of my project
 ### Football
-<img src="./img/game1.png" width=200>
+(<img src="./img/game1.png" width=1000>)
 In this game, you are meant to shoot the ball using the character using the character into the correnct goal
 based on the question given.
 ### Catch
