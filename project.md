@@ -11,20 +11,25 @@ website is connected to the database through an API created using node.js.
 
 ## Screenshot of my project
 ### Football
-(<img src="./img/game1.png" width=1000>)
+<img src="./img/game1.png" width=1000>  
+
 In this game, you are meant to shoot the ball using the character using the character into the correnct goal
 based on the question given.
 ### Catch
-![game2](./img/game2.png)
+<img src="./img/game2.png" width=1000> 
+
 ### Shoot 
 In this game you are meant to catch the correct answer based on the question given.
-![game3](./img/game3.png)
+<img src="./img/game3.png" width=1000> 
+
 In this game you are meant to shoot the correct answer based on the question given.
 ### Timer
-![game4](./img/game4.png)
+<img src="./img/game4.png" width=1000> 
+
 In this game you are meant to time yourself and see how fast you can complete the question given (long questions)
 ### Quick draw
-![game5](./img/game5.png)
+<img src="./img/game5.png" width=1000> 
+
 In this game you are meant to select the correct answer as quickly as you can.
 
 
