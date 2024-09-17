@@ -1,5 +1,5 @@
 # Home page
 
-[Home](/)
+[Home]()
 [Contact](/contact.md)
 [Project](/project.md)
