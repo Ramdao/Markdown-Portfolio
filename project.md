@@ -10,6 +10,6 @@ The Question and answers are saved on a database with their username and passwor
 website is connected to the database through an API created using node.js.
 
 ## Screenshot of my project
-[!game1](./img/game1.png)
+![game1](./img/game1.png)
 
 
