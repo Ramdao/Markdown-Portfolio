@@ -18,14 +18,14 @@
 > C++
 
 ### Markup Languages I have used
-> HTML
+> HTML  
 > CSS
 
 ### Languages I used to make APIs
-> Python
-> JavaScript
+> Python  
+> JavaScript  
 > C#
 
 ### Database Language I have worked with
->SQL
+>SQL  
 >SQLite3
