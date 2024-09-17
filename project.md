@@ -31,5 +31,5 @@ In this game you are meant to time yourself and see how fast you can complete th
 <img src="./img/game5.png" width=1000> 
 
 In this game you are meant to select the correct answer as quickly as you can.
-
+[GitHub link to project](https://github.com/Ramdao/Tashrif_Radin_Ali_CSE_Bachelor_Thesis_Project)
 
